@@ -22,7 +22,7 @@ xdescribe(add2.name, () => {
     // console.log(add2(2,3));
     it('test 1', () => {
         // arrange
-        const data = [1, 2, 3, 4, 5];
+        const data = [1, 2, 3, 4, 5];   
 
         // act
         const result = add2(...data);
